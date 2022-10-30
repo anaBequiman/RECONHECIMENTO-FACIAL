@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: white;
+}
+.heading{
+    width: 100%;
+    font-size: 22px;
+}
+button{
+    color: black;
+}
